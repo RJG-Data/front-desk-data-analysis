@@ -25,7 +25,7 @@ I analyzed eight months of front desk check-in data (9,785 interactions) for a n
 
 2. **Over 1 in 4 Visitors Speak Spanish:** While English accounts for 68.8% of visits, Spanish (16.8%) and bilingual English/Spanish (11.7%) clients make up 28.5% of all front desk traffic, proving that department bilingual staffing is essential to helping our community.
 
-![Overall Language Breakdown](chart_2_languages_spoken.png)
+![Overall Language Breakdown](Chart%202.png)
 
 3. **Departments Serve Highly Specialized Roles:** Of the interactions that identified a role, overall traffic splits evenly between child care Providers (50.6%) and Parents (45.3%), with 3.7% Other. However, department workloads vary heavily with client interactions: Dept_001 + Dept_005 (70.3% Provider), Dept_005 (76.4% Provider), and Dept_008 (89.2% Provider) primarily serve providers, while Dept_002 (77.4% Parent) and Dept_003 (88.2% Parent) primarily work with families.
 
@@ -33,7 +33,7 @@ I analyzed eight months of front desk check-in data (9,785 interactions) for a n
 
 4. **Identified 3 Departments with Declining Customer Service Scores:** Tracking monthly performance revealed significant service drops from June to August for three core teams. Dept_002 fell from 91.7% to 85.9%, Dept_005 dropped from 96.1% to 91.3%, and Dept_008 experienced the steepest decline from 97.8% down to 79.5%.
 
-![Department Satisfaction Scores](chart_4_department_satisfaction.png)
+![Department Satisfaction Scores](Chart%204.png)
 
 ## Dashboard & Data Visualization
 
