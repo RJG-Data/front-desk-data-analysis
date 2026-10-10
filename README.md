@@ -2,7 +2,12 @@
 
 **Tools Used:** Tableau, Google Sheets, SQL
 **Dataset:** 9,785 Anonymized Check-In Records
-**Live Project Links:** [Google Sheets Dashboard & Clean Dataset] https://docs.google.com/spreadsheets/d/1nH3tGNnosZllH-LPCdV2g2QsOcYYAA7ljz-FLvwEHRo/edit?gid=1638947559#gid=1638947559 | [Tableau Public Visualizations]https://public.tableau.com/views/2026_Data_Report_Front_Desk_Jan_thru_Aug/Walk-inLanguageCompletionRateJan-Aug?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**Live Project Links:** 
+
+Google Sheets Dashboard & Clean Dataset: https://docs.google.com/spreadsheets/d/1nH3tGNnosZllH-LPCdV2g2QsOcYYAA7ljz-FLvwEHRo/edit?gid=1638947559#gid=1638947559
+
+Tableau Public Visualizations: https://public.tableau.com/views/2026_Data_Report_Front_Desk_Jan_thru_Aug/Walk-inLanguageCompletionRateJan-Aug?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Overview
 
 I analyzed eight months of front desk check-in data (9,785 interactions) for a non-profit that manages child care subsidies. My goal was to answer four practical questions for executive leadership for current information and to establish accuracy for future data collection processes at the front desk: how accurate staff are logging visitor data, what prominent languages clients speak, how clients are being transferred across departments, and where clients experience poor customer service.
